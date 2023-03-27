@@ -3,4 +3,4 @@
 
 Vue3 + ts 搭配 Vant3 组件库
 
-![image](https://github.com/3523130/plateKeyboard/blob/main/images/keyboard.img)
+![image](https://github.com/3523130/plateKeyboard/blob/main/images/keyboard.jpg)
